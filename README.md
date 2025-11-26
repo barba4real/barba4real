@@ -50,6 +50,7 @@
 
 **Available for:** Full-time remote positions, Contract work, Freelance projects
 
+🌐 **Portfolio:** [https://barba4real.github.io/dave-portfolio/](https://barba4real.github.io/dave-portfolio/)  
 📧 **Email:** [daveoluwafemi6@gmail.com](mailto:daveoluwafemi6@gmail.com)  
 💼 **LinkedIn:** [Dave Oluwafemi](https://www.linkedin.com/in/dave-oluwafemi-53b716132/)  
 📱 **WhatsApp:** [+234 813 116 5878](https://wa.me/2348131165878)  
