@@ -1,98 +1,59 @@
-# Hi there! 👋 I'm Dave Oluwafemi
+# Dave Oluwafemi - Full Stack Developer
 
-## 🚀 Full Stack Developer | General Manager at Endless Pro Solutions
+![Profile Views](https://komarev.com/ghpvc/?username=barba4real&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/barba4real?style=social)
 
-**📍 Lagos, Nigeria** | **💼 7+ Years Experience** | **🌍 Remote Work Specialist**
-
----
-
-### 💡 About Me
-
-Full-stack developer passionate about building **fast, scalable, and business-ready web applications**. I specialize in creating solutions that help businesses grow globally, from micro-loan platforms to e-commerce systems and sports betting applications.
-
-Currently serving as General Manager at **Endless Pro Solutions** while taking on exciting freelance projects worldwide.
+**General Manager & Lead Developer** at Endless Pro Solutions  
+**7+ Years Experience** in Web Application Development  
+**Location:** Lagos, Nigeria 🇳🇬
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages & Frameworks:**
-```
-PHP • Laravel • JavaScript • Node.js • HTML5 • CSS3
-```
+### 🏦 **Banking & Finance**
+- **[EurosBnks](https://github.com/barba4real/EurosBnks)** - Multi-language banking system (13 languages)
+- **[BrumingFinance](https://github.com/barba4real/BrumingFinance)** - Professional loan management (18 languages)
+- **[GlinxxLoans](https://github.com/barba4real/GlinxxLoans)** - Loan service platform with calculator
 
-**Databases & Backend:**
-```
-MySQL • PostgreSQL • Database Design • REST API Integration
-```
+### 📦 **Logistics & Courier**
+- **[CourierPro](https://github.com/barba4real/CourierPro)** - Professional courier management system
+- **[WorldWideExpress](https://github.com/barba4real/WorldWideExpress)** - Multi-language courier platform (6 languages)
 
-**Web Development:**
-```
-Responsive Design • WordPress • WooCommerce • Bootstrap
-```
+### 🛒 **Ecommerce & Retail**
+- **[BCACommerce](https://github.com/barba4real/BCACommerce)** - European wood energy portal (13 languages)
 
-**Business Applications:**
-```
-CRM Systems • E-Commerce • Payment Gateways • Project Management
-```
+### 📧 **Enterprise Infrastructure**
+- **[EnterpriseMailer](https://github.com/barba4real/EnterpriseMailer)** - High-volume email platform (50M+ emails/month)
+- **[LicenseServer](https://github.com/barba4real/LicenseServer)** - Centralized licensing system with JWT
 
 ---
 
-### 🎯 Featured Projects
+## 💻 Tech Stack
 
-🚛 **[CourierPro](https://github.com/barba4real/CourierPro)** - Professional Courier & Freight Management System
-- Real-time tracking, admin dashboard, customer portal
-- PHP, MySQL, Bootstrap, RESTful APIs
-- Complete logistics solution with route optimization
-
-💰 **Micro-Loan Platform** - Loan tracking and payment processing
-- Laravel, MySQL, automated workflows
-- Payment gateway integration, reporting modules
-
-🛒 **E-Commerce Solutions** - Multiple WooCommerce implementations
-- Custom product management, responsive design
-- Payment processing, inventory management
-
-📊 **CRM Dashboards** - Business process automation
-- User roles, analytics, real-time reporting
-- Multi-tenant architecture, API integrations
+**Backend:** PHP 8.2+, MySQL 8.0, Laravel, RESTful APIs  
+**Frontend:** Bootstrap 5, JavaScript ES6+, Responsive Design  
+**Languages:** Multi-language systems (6-18 languages per project)  
+**Security:** JWT, CSRF protection, Encryption, GDPR compliance  
+**Infrastructure:** Email systems, Payment gateways, Real-time tracking  
 
 ---
 
-### 📈 What I Bring to Your Team
+## 📊 GitHub Stats
 
-✅ **7+ Years** of full-stack development experience  
-✅ **Remote-first** approach with global client experience  
-✅ **Business-focused** solutions that drive growth  
-✅ **Clean, maintainable** code with security best practices  
-✅ **Fast delivery** with post-deployment support  
+![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barba4real&show_icons=true&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barba4real&layout=compact&theme=blue-green)
 
 ---
 
-### 🌟 Open to Opportunities
+## 🤝 Let's Connect
 
-🔍 **Seeking:** Remote Full-Stack Developer positions  
-💼 **Available for:** Full-time, Contract, or Freelance work  
-🎯 **Specialties:** Web Applications, E-Commerce, CRM, APIs  
+**Available for:** Full-time remote positions, Contract work, Freelance projects
 
----
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-oluwafemi-53b716132/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daveoluwafemi6@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348131165878)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://barba4real.github.io/dave-portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barba4real)
+📧 **Email:** [daveoluwafemi6@gmail.com](mailto:daveoluwafemi6@gmail.com)  
+💼 **LinkedIn:** [Dave Oluwafemi](https://www.linkedin.com/in/dave-oluwafemi-53b716132/)  
+📱 **WhatsApp:** [+234 813 116 5878](https://wa.me/2348131165878)  
 
 ---
 
-### 📊 GitHub Stats
-
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=barba4real&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barba4real&layout=compact&theme=radical)
-
----
-
-**💬 "Building digital solutions that make businesses thrive globally"**
+⭐ **Star my repositories if you find them useful!**
