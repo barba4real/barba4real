@@ -23,6 +23,10 @@
 ### 🛒 **Ecommerce & Retail**
 - **[EcoCommerce Platform](https://github.com/barba4real/BCACommerce)** - European wood energy portal (13 languages)
 
+### 📊 **Analytics & Data Science**
+- **[Sports Betting Analytics](https://github.com/barba4real/fixtures)** - Professional sports betting fixture management with AI algorithms
+- **[Lotto Predictor](https://github.com/barba4real/lotto_predictor)** - Advanced lottery prediction system (60+ methods)
+
 ### 📧 **Enterprise Infrastructure**
 - **[MailFlow Enterprise](https://github.com/barba4real/EnterpriseMailer)** - High-volume email platform (50M+ emails/month)
 - **[AuthGuard Server](https://github.com/barba4real/LicenseServer)** - Centralized licensing system with JWT
