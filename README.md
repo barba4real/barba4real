@@ -12,24 +12,24 @@
 ## 🚀 Featured Projects
 
 ### 🏦 **Banking & Finance**
-- **[SecureBank Pro](https://github.com/barba4real/EurosBnks)** - Multi-language banking system (13 languages)
-- **[LoanFlow Enterprise](https://github.com/barba4real/BrumingFinance)** - Professional loan management (18 languages)
-- **[QuickLoan Calculator](https://github.com/barba4real/GlinxxLoans)** - Loan service platform with calculator
+- **[SecureBank Pro](https://github.com/barba4real/SecureBank-Pro)** - Multi-language banking system (13 languages)
+- **[LoanFlow Enterprise](https://github.com/barba4real/LoanFlow-Enterprise)** - Professional loan management (18 languages)
+- **[QuickLoan Calculator](https://github.com/barba4real/QuickLoan-Calculator)** - Loan service platform with calculator
 
 ### 📦 **Logistics & Courier**
 - **[TrackPro System](https://github.com/barba4real/CourierPro)** - Professional courier management system
-- **[GlobalShip Pro](https://github.com/barba4real/WorldWideExpress)** - Multi-language courier platform (6 languages)
+- **[GlobalShip Pro](https://github.com/barba4real/GlobalShip-Pro)** - Multi-language courier platform (6 languages)
 
 ### 🛒 **Ecommerce & Retail**
-- **[EcoCommerce Platform](https://github.com/barba4real/BCACommerce)** - European wood energy portal (13 languages)
+- **[EcoCommerce Platform](https://github.com/barba4real/EcoCommerce-Platform)** - European wood energy portal (13 languages)
 
 ### 📊 **Analytics & Data Science**
-- **[Sports Betting Analytics](https://github.com/barba4real/fixtures)** - Professional sports betting fixture management with AI algorithms
-- **[Lotto Predictor](https://github.com/barba4real/lotto_predictor)** - Advanced lottery prediction system (60+ methods)
+- **[Sports Betting Analytics](https://github.com/barba4real/Sports-Betting)** - Professional sports betting fixture management with AI algorithms
+- **[Lotto Predictor](https://github.com/barba4real/Lotto-Predictor)** - Advanced lottery prediction system (60+ methods)
 
 ### 📧 **Enterprise Infrastructure**
-- **[MailFlow Enterprise](https://github.com/barba4real/EnterpriseMailer)** - High-volume email platform (50M+ emails/month)
-- **[AuthGuard Server](https://github.com/barba4real/LicenseServer)** - Centralized licensing system with JWT
+- **[MailFlow Enterprise](https://github.com/barba4real/MailFlow-Enterprise)** - High-volume email platform (50M+ emails/month)
+- **[AuthGuard Server](https://github.com/barba4real/AuthGuard-Server)** - Centralized licensing system with JWT
 
 ---
 
