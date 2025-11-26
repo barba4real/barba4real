@@ -12,20 +12,20 @@
 ## 🚀 Featured Projects
 
 ### 🏦 **Banking & Finance**
-- **[EurosBnks](https://github.com/barba4real/EurosBnks)** - Multi-language banking system (13 languages)
-- **[BrumingFinance](https://github.com/barba4real/BrumingFinance)** - Professional loan management (18 languages)
-- **[GlinxxLoans](https://github.com/barba4real/GlinxxLoans)** - Loan service platform with calculator
+- **[SecureBank Pro](https://github.com/barba4real/EurosBnks)** - Multi-language banking system (13 languages)
+- **[LoanFlow Enterprise](https://github.com/barba4real/BrumingFinance)** - Professional loan management (18 languages)
+- **[QuickLoan Calculator](https://github.com/barba4real/GlinxxLoans)** - Loan service platform with calculator
 
 ### 📦 **Logistics & Courier**
-- **[CourierPro](https://github.com/barba4real/CourierPro)** - Professional courier management system
-- **[WorldWideExpress](https://github.com/barba4real/WorldWideExpress)** - Multi-language courier platform (6 languages)
+- **[TrackPro System](https://github.com/barba4real/CourierPro)** - Professional courier management system
+- **[GlobalShip Pro](https://github.com/barba4real/WorldWideExpress)** - Multi-language courier platform (6 languages)
 
 ### 🛒 **Ecommerce & Retail**
-- **[BCACommerce](https://github.com/barba4real/BCACommerce)** - European wood energy portal (13 languages)
+- **[EcoCommerce Platform](https://github.com/barba4real/BCACommerce)** - European wood energy portal (13 languages)
 
 ### 📧 **Enterprise Infrastructure**
-- **[EnterpriseMailer](https://github.com/barba4real/EnterpriseMailer)** - High-volume email platform (50M+ emails/month)
-- **[LicenseServer](https://github.com/barba4real/LicenseServer)** - Centralized licensing system with JWT
+- **[MailFlow Enterprise](https://github.com/barba4real/EnterpriseMailer)** - High-volume email platform (50M+ emails/month)
+- **[AuthGuard Server](https://github.com/barba4real/LicenseServer)** - Centralized licensing system with JWT
 
 ---
 
