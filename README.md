@@ -13,9 +13,9 @@
 
 Customer Support and Technical Operations professional with experience supporting users, troubleshooting system issues, and delivering reliable service in fast-paced, remote environments.
 
-I specialize in resolving customer issues across email, chat, and voice channels while identifying root causes and improving overall user experience.
+I specialize in resolving user issues across email, chat, and voice channels while identifying root causes and improving overall user experience.
 
-With a background in building and supporting web-based systems, I understand both the customer and technical sides of SaaS products — enabling me to effectively bridge communication between users and engineering teams.
+With a background in building and supporting web-based systems, I understand both the customer and technical sides of SaaS products — enabling me to bridge communication between users and technical teams and contribute to faster issue resolution.
 
 ---
 
@@ -32,7 +32,7 @@ With a background in building and supporting web-based systems, I understand bot
 - Troubleshooting Web & System Issues
 - API Support (REST APIs, Postman)
 - Root Cause Analysis
-- System Debugging (Browser DevTools)
+- System Debugging (Chrome DevTools)
 - Workflow & Integration Support
 
 ### 📊 Analytics & Systems
@@ -48,26 +48,20 @@ With a background in building and supporting web-based systems, I understand bot
 ### 🏦 Financial Platforms (Multi-language SaaS Systems)
 - Supported multi-language platforms (13–18 languages)
 - Investigated and resolved user issues (payments, login errors, tracking issues)
-- Improved user flow and conversion tracking using GA4 & GTM
-
----
+- Improved tracking accuracy and user flow visibility using GA4 & GTM
 
 ### 📦 Logistics & Tracking Systems
 - Troubleshot real-time tracking and delivery system issues
-- Supported operational workflows and ensured data consistency
-- Investigated system behavior and resolved user-reported issues
-
----
+- Maintained data consistency across operational workflows
+- Investigated system behaviour and resolved user-reported issues
 
 ### 📊 Analytics & Tracking Systems
 - Built and maintained tracking systems using GA4 & GTM
-- Identified and resolved missing or incorrect event tracking
-- Improved visibility into customer journey and performance metrics
-
----
+- Identified and resolved missing or inaccurate event tracking
+- Improved visibility into customer journeys and performance metrics
 
 ### 📧 Infrastructure & API Systems
-- Supported API-based integrations and backend processes
+- Supported API-based integrations and backend workflows
 - Investigated authentication and access-related issues
 - Assisted in debugging system errors and performance bottlenecks
 
@@ -75,9 +69,9 @@ With a background in building and supporting web-based systems, I understand bot
 
 ## 🛠 Tools & Technologies
 
-- CRM: Zendesk (concept), HubSpot  
+- CRM Systems: Zendesk, HubSpot  
 - API Tools: Postman  
-- Analytics: Google Analytics 4, Google Tag Manager  
+- Analytics: Google Analytics 4 (GA4), Google Tag Manager  
 - Database: MySQL (basic queries)  
 - Debugging: Chrome DevTools  
 - Collaboration: Slack, Notion  
