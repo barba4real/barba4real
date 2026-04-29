@@ -1,64 +1,106 @@
-# Dave Oluwafemi - Full Stack Developer
+# Dave Oluwafemi – SaaS Customer Support & Technical Operations Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=barba4real&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/barba4real?style=social)
 
-**General Manager & Lead Developer** at Endless Pro Solutions  
-**7+ Years Experience** in Web Application Development  
-**Location:** Lagos, Nigeria 🇳🇬
+**SaaS Customer Support | Technical Support | CRM Systems | API & Analytics Troubleshooting**
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 **Banking & Finance**
-- **[SecureBank Pro](https://github.com/barba4real/SecureBank-Pro)** - Multi-language banking system (13 languages)
-- **[LoanFlow Enterprise](https://github.com/barba4real/LoanFlow-Enterprise)** - Professional loan management (18 languages)
-- **[QuickLoan Calculator](https://github.com/barba4real/QuickLoan-Calculator)** - Loan service platform with calculator
-
-### 📦 **Logistics & Courier**
-- **[TrackPro System](https://github.com/barba4real/CourierPro)** - Professional courier management system
-- **[GlobalShip Pro](https://github.com/barba4real/GlobalShip-Pro)** - Multi-language courier platform (6 languages)
-
-### 🛒 **Ecommerce & Retail**
-- **[EcoCommerce Platform](https://github.com/barba4real/EcoCommerce-Platform)** - European wood energy portal (13 languages)
-
-### 📊 **Analytics & Data Science**
-- **[Sports Betting Analytics](https://github.com/barba4real/Sports-Betting)** - Professional sports betting fixture management with AI algorithms
-- **[Lotto Predictor](https://github.com/barba4real/Lotto-Predictor)** - Advanced lottery prediction system (60+ methods)
-
-### 📧 **Enterprise Infrastructure**
-- **[MailFlow Enterprise](https://github.com/barba4real/MailFlow-Enterprise)** - High-volume email platform (50M+ emails/month)
-- **[AuthGuard Server](https://github.com/barba4real/AuthGuard-Server)** - Centralized licensing system with JWT
+📍 Lagos, Nigeria (Remote)  
+📞 +2349130794050  
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-**Backend:** PHP 8.2+, MySQL 8.0, Laravel, RESTful APIs  
-**Frontend:** Bootstrap 5, JavaScript ES6+, Responsive Design  
-**Languages:** Multi-language systems (6-18 languages per project)  
-**Security:** JWT, CSRF protection, Encryption, GDPR compliance  
-**Infrastructure:** Email systems, Payment gateways, Real-time tracking  
+Customer Support and Technical Operations professional with experience supporting users, troubleshooting system issues, and delivering reliable service in fast-paced remote environments.
 
----
+I specialize in resolving customer issues across email, chat, and voice channels while identifying root causes and improving overall user experience.
 
-## 📊 GitHub Stats
-
-![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barba4real&show_icons=true&theme=blue-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barba4real&layout=compact&theme=blue-green)
+With a background in building and supporting web-based systems, I understand both the **customer side and system side** of SaaS products — allowing me to bridge communication between users and technical teams.
 
 ---
 
-## 🤝 Let's Connect
+## 🧰 Core Skills
 
-**Available for:** Full-time remote positions, Contract work, Freelance projects
+### 💬 Customer Support
+- SaaS Customer Support (Email, Chat, Voice)
+- Ticket Management & SLA Handling
+- CRM Systems (Zendesk, HubSpot)
+- Escalation Handling & Case Resolution
+- Customer Communication & Retention
 
-🌐 **Portfolio:** [https://barba4real.github.io/dave-portfolio/](https://barba4real.github.io/dave-portfolio/)  
-📧 **Email:** [daveoluwafemi6@gmail.com](mailto:daveoluwafemi6@gmail.com)  
-💼 **LinkedIn:** [Dave Oluwafemi](https://www.linkedin.com/in/dave-oluwafemi-53b716132/)  
-📱 **WhatsApp:** [+234 813 116 5878](https://wa.me/2348131165878)  
+### 🔧 Technical Support
+- Troubleshooting Web & System Issues
+- API Support (REST APIs, Postman)
+- Root Cause Analysis
+- System Debugging (Browser DevTools)
+- Workflow & Integration Support
+
+### 📊 Analytics & Systems
+- Google Analytics 4 (GA4)
+- Google Tag Manager (GTM)
+- Data Tracking & Event Debugging
+- Reporting & Performance Analysis
 
 ---
 
-⭐ **Star my repositories if you find them useful!**
+## 🚀 Relevant Systems & Support Experience
+
+### 🏦 Financial Platforms (Multi-language SaaS Systems)
+- Supported multi-language platforms (13–18 languages)
+- Investigated user issues (payments, login, tracking errors)
+- Improved user flow and conversion tracking using GA4 & GTM
+
+---
+
+### 📦 Logistics & Tracking Systems
+- Troubleshot real-time tracking and delivery system issues
+- Supported operational workflows and data consistency
+- Investigated system behavior and resolved user complaints
+
+---
+
+### 📊 Analytics & Tracking Systems
+- Built and maintained tracking systems using GA4 & GTM
+- Identified and resolved missing event/data issues
+- Improved visibility into customer journey data
+
+---
+
+### 📧 Infrastructure & API Systems
+- Supported API-based integrations and backend processes
+- Investigated authentication and system access issues
+- Assisted in debugging system errors and performance issues
+
+---
+
+## 🛠 Tools & Technologies
+
+- CRM: Zendesk (concept), HubSpot  
+- API Tools: Postman  
+- Analytics: GA4, Google Tag Manager  
+- Database: MySQL (basic queries)  
+- Debugging: Chrome DevTools  
+- Collaboration: Slack, Notion  
+
+---
+
+## 📂 Sample Support Work (Portfolio)
+
+✔ Ticket Handling & Resolution Workflow  
+✔ API Troubleshooting Case Study  
+✔ GA4 Tracking Debugging Case  
+✔ Knowledge Base Documentation  
+
+👉 (Available on request or via portfolio link)
+
+---
+
+## 🤝 Let’s Connect
+
+🌐 Portfolio: https://barba4real.github.io/dave-portfolio/  
+📧 Email: daveoluwafemi6@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/dave-oluwafemi-53b716132/  
+
+---
+
+⭐ Open to remote SaaS Customer Support, Technical Support, and Customer Success roles globally
