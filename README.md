@@ -5,17 +5,17 @@
 **SaaS Customer Support | Technical Support | CRM Systems | API & Analytics Troubleshooting**
 
 📍 Lagos, Nigeria (Remote)  
-📞 +234 913 079 4050 | +234 813 116 5878 
+📞 +234 913 079 4050 | +234 813 116 5878  
 
 ---
 
 ## 👨‍💻 About Me
 
-Customer Support and Technical Operations professional with experience supporting users, troubleshooting system issues, and delivering reliable service in fast-paced remote environments.
+Customer Support and Technical Operations professional with experience supporting users, troubleshooting system issues, and delivering reliable service in fast-paced, remote environments.
 
 I specialize in resolving customer issues across email, chat, and voice channels while identifying root causes and improving overall user experience.
 
-With a background in building and supporting web-based systems, I understand both the **customer side and system side** of SaaS products — allowing me to bridge communication between users and technical teams.
+With a background in building and supporting web-based systems, I understand both the customer and technical sides of SaaS products — enabling me to effectively bridge communication between users and engineering teams.
 
 ---
 
@@ -23,7 +23,7 @@ With a background in building and supporting web-based systems, I understand bot
 
 ### 💬 Customer Support
 - SaaS Customer Support (Email, Chat, Voice)
-- Ticket Management & SLA Handling
+- Ticket Management & SLA Adherence
 - CRM Systems (Zendesk, HubSpot)
 - Escalation Handling & Case Resolution
 - Customer Communication & Retention
@@ -47,29 +47,29 @@ With a background in building and supporting web-based systems, I understand bot
 
 ### 🏦 Financial Platforms (Multi-language SaaS Systems)
 - Supported multi-language platforms (13–18 languages)
-- Investigated user issues (payments, login, tracking errors)
+- Investigated and resolved user issues (payments, login errors, tracking issues)
 - Improved user flow and conversion tracking using GA4 & GTM
 
 ---
 
 ### 📦 Logistics & Tracking Systems
 - Troubleshot real-time tracking and delivery system issues
-- Supported operational workflows and data consistency
-- Investigated system behavior and resolved user complaints
+- Supported operational workflows and ensured data consistency
+- Investigated system behavior and resolved user-reported issues
 
 ---
 
 ### 📊 Analytics & Tracking Systems
 - Built and maintained tracking systems using GA4 & GTM
-- Identified and resolved missing event/data issues
-- Improved visibility into customer journey data
+- Identified and resolved missing or incorrect event tracking
+- Improved visibility into customer journey and performance metrics
 
 ---
 
 ### 📧 Infrastructure & API Systems
 - Supported API-based integrations and backend processes
-- Investigated authentication and system access issues
-- Assisted in debugging system errors and performance issues
+- Investigated authentication and access-related issues
+- Assisted in debugging system errors and performance bottlenecks
 
 ---
 
@@ -77,30 +77,29 @@ With a background in building and supporting web-based systems, I understand bot
 
 - CRM: Zendesk (concept), HubSpot  
 - API Tools: Postman  
-- Analytics: GA4, Google Tag Manager  
+- Analytics: Google Analytics 4, Google Tag Manager  
 - Database: MySQL (basic queries)  
 - Debugging: Chrome DevTools  
 - Collaboration: Slack, Notion  
 
 ---
 
-## 📂 Sample Support Work (Portfolio)
+## 📂 Portfolio Highlights
 
-✔ Ticket Handling & Resolution Workflow  
-✔ API Troubleshooting Case Study  
-✔ GA4 Tracking Debugging Case  
-✔ Knowledge Base Documentation  
+- Ticket Handling & Resolution Workflows  
+- API Troubleshooting Case Studies  
+- GA4 Tracking Debugging Examples  
+- Knowledge Base Documentation  
 
-👉 (Available on request or via portfolio link)
+👉 Portfolio: https://barba4real.github.io/dave-portfolio/
 
 ---
 
 ## 🤝 Let’s Connect
 
-🌐 Portfolio: https://barba4real.github.io/dave-portfolio/  
 📧 Email: daveoluwafemi6@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/dave-oluwafemi-53b716132/  
 
 ---
 
-⭐ Open to remote SaaS Customer Support, Technical Support, and Customer Success roles globally
+⭐ Open to remote SaaS Customer Support, Technical Support, and Customer Success roles
